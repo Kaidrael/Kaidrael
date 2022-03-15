@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Kaidrael
+- 🌱 I’m currently learning blockchain and smart contracts.
+- 📫 You can find my links at linktr.ee/kaidrael .
